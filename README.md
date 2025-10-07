@@ -1,6 +1,6 @@
-## Hi there 👋
 
-<!--
+
+
 # Hi, I'm Sithika Samadith 👋
 **Web & Mobile Application Developer | React Native & Full-Stack Enthusiast | Lifelong Learner**
 
@@ -32,4 +32,4 @@ Welcome to my GitHub! I love building **beautiful, fast, and scalable applicatio
 ## ⚡ Fun Fact
 I ❤️ exploring new frameworks and turning my ideas into real apps. Always learning, always coding!
 
--->
+
