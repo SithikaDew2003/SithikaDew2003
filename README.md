@@ -16,7 +16,7 @@ Welcome to my GitHub! I love building **beautiful, fast, and scalable applicatio
 
 ---
 
-## 🌟 GitHub Stats
+## 🌟 GitHub Stats 
 ![Sithika's GitHub stats](https://github.com/SithikaDew2003)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sithiya&layout=compact&theme=radical)
