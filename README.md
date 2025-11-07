@@ -14,9 +14,9 @@
 I’m passionate about building **modern, responsive, and scalable web & mobile applications**.  
 Always learning new technologies and turning ideas into reality.  
 
-- 🌱 Currently learning: **Next.js, GraphQL, Advanced React Native Animations**  
+- 🌱 Currently learning: **Next.js, Android, Advanced React Native Animations**  
 - 🔭 Working on: **Real-time apps, Interactive UI/UX projects**  
-- 💬 Ask me about: **React, React Native, Node.js, Firebase, TailwindCSS**  
+- 💬 Ask me about: **React, React Native, Node.js, MySQL, TailwindCSS**  
 
 ---
 
